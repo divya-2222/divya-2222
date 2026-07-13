@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**divya-2222/divya-2222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Divya Patil 👋
 
-Here are some ideas to get you started:
+🎓 B.Sc. IT Student | Mumbai University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+### Programming
+- Python
+
+### Backend & Database
+- Node.js (Basic)
+- MongoDB (Basic)
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+## 🚀 Projects
+- Weather App
+- Task Manager
+- Burger Hut Website
+- Metropolis Frontend
+
+## 🌱 Currently Learning
+- Full Stack Development
+
+## 🎯 Career Goal
+Seeking Frontend Developer and Software Development Internship opportunities.
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/divya-patil-7087a53b5
+- Email:divya.patil.6200@gmail.com
+
